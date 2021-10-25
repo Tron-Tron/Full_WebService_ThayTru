@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5ff281dd1fab6846545cb0ed"
+  },
+  "name": "Dưỡng Ẩm",
+  "description": "Đây là sản phẩm dưỡng ẩm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff281f11fab6846545cb0ee"
+  },
+  "name": "Tẩy Trang",
+  "description": "Đây là sản phẩm tẩy trang",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff282081fab6846545cb0ef"
+  },
+  "name": "Tẩy Tế Bào Chết",
+  "description": "Đây là sản phẩm tẩy tế bào chết",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff282301fab6846545cb0f0"
+  },
+  "name": "Sữa Rửa Mặt",
+  "description": "Đây là sản phẩm sữa rửa mặt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff282501fab6846545cb0f1"
+  },
+  "name": "Chống Nắng",
+  "description": "Đây là sản phẩm chống nắng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff59ebd9db4993efce70a2f"
+  },
+  "name": "sssssss",
+  "description": "vvvvv",
+  "__v": 0
+}]

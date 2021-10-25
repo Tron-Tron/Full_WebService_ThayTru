@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "5ff29c9e1fab6846545cb137"
+  },
+  "role": "guest",
+  "isActive": true,
+  "name": "aaaaaaaaaa",
+  "email": "a@gmail.com",
+  "phone": "0356892653",
+  "address": "Dĩ An, Bình Dương",
+  "password": "$2a$12$A1Q76vI80wZ/DDP4mpOfi.8yxtNmkAwX0JdYInOC5DmW/8jS/ePJe",
+  "createdAt": {
+    "$date": "2021-01-04T04:42:06.602Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T13:24:43.971Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff29fbc1fab6846545cb144"
+  },
+  "role": "guest",
+  "isActive": true,
+  "name": "TronTron12",
+  "email": "cc@gmail.com",
+  "phone": "0639436413",
+  "address": "Dĩ An, Bình Dương",
+  "password": "$2a$12$sHC7xzDdlHAOtkndvM8R3Oevkk0bnt86s1Tg9eE38VOtxBnVmphkm",
+  "createdAt": {
+    "$date": "2021-01-04T04:55:24.837Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T04:55:24.837Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff2a0161fab6846545cb145"
+  },
+  "role": "admin",
+  "isActive": true,
+  "name": "Tron Trons",
+  "email": "trontron10000@gmail.com",
+  "phone": "0639436413",
+  "address": "Dĩ An, Bình Dương",
+  "password": "$2a$12$bPUmIneP8oOwLuBrsAFk7uXaExUGUFckMXOsLdduFegtU1zR32Gni",
+  "createdAt": {
+    "$date": "2021-01-04T04:56:54.999Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T04:56:54.999Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff42e6396c9fa2b6cde0d95"
+  },
+  "role": "guest",
+  "isActive": true,
+  "name": "huyencute",
+  "phone": "0956356953",
+  "address": "nhà tao nè",
+  "email": "huyencute@gmail.com",
+  "password": "$2a$12$XaRoJbQdlFyxD9s6xBRTiuWcjdu/cl6sEvgAMxtiLmC6GWC.USDKO",
+  "createdAt": {
+    "$date": "2021-01-05T09:16:19.144Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T11:27:25.250Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff5725048b02453405e4c0b"
+  },
+  "role": "guest",
+  "isActive": true,
+  "name": "PhamThiHuyen",
+  "phone": "0388315303",
+  "address": "nhà taooooo",
+  "email": "trontron7@gmail.com",
+  "password": "$2a$12$0w4yphBduCRcssPK6hBlcO7s/NynTUdzl0xgA9sXwg98/5bhJr.Ya",
+  "createdAt": {
+    "$date": "2021-01-06T08:18:24.041Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T08:18:24.041Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff59e799db4993efce70a2e"
+  },
+  "role": "admin",
+  "isActive": true,
+  "name": "GiangOiiii",
+  "email": "giangoi@gmail.com",
+  "phone": "0769515615",
+  "address": "nhà tao á nha",
+  "password": "$2a$12$RmzLmO.h8LE9miSeWFrZJeGuFeK3TMdJ.Iqetgmy41wfdmF/2ZKAC",
+  "createdAt": {
+    "$date": "2021-01-06T11:26:49.280Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T11:26:49.280Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff5bab0b198b11c08093911"
+  },
+  "role": "admin",
+  "isActive": true,
+  "name": "ok met roi a",
+  "email": "ok@gmail.com",
+  "phone": "0698532560",
+  "address": "nhà tao á nha",
+  "password": "$2a$12$IQxWLxm9TouJGAw15c/B7OvzBREYrb/S9Cl7VepVal8VbGh0I0kP6",
+  "createdAt": {
+    "$date": "2021-01-06T13:27:12.912Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T13:27:12.912Z"
+  },
+  "__v": 0
+}]

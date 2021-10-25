@@ -1,0 +1,1007 @@
+[{
+  "_id": {
+    "$oid": "5ff288d71fab6846545cb0f3"
+  },
+  "sku": "100",
+  "name_product": "Clio",
+  "price": 500000,
+  "quantity": 20,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Clio",
+  "createdAt": {
+    "$date": "2021-01-04T03:17:43.309Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T13:49:38.834Z"
+  },
+  "__v": 0,
+  "image": "daclio.jpg"
+},{
+  "_id": {
+    "$oid": "5ff2890e1fab6846545cb0f4"
+  },
+  "sku": "101",
+  "name_product": "Laneige",
+  "price": 680000,
+  "quantity": 10,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Laneige",
+  "createdAt": {
+    "$date": "2021-01-04T03:18:38.274Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:18:38.274Z"
+  },
+  "__v": 0,
+  "image": "dalaneige.png"
+},{
+  "_id": {
+    "$oid": "5ff2892f1fab6846545cb0f5"
+  },
+  "sku": "102",
+  "name_product": "Innisfree",
+  "price": 600000,
+  "quantity": 30,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Innisfree",
+  "createdAt": {
+    "$date": "2021-01-04T03:19:11.329Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:19:11.329Z"
+  },
+  "__v": 0,
+  "image": "dainnisfree.jpg"
+},{
+  "_id": {
+    "$oid": "5ff289491fab6846545cb0f6"
+  },
+  "sku": "103",
+  "name_product": "Mamonde",
+  "price": 800000,
+  "quantity": 10,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Mamonde",
+  "createdAt": {
+    "$date": "2021-01-04T03:19:37.299Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:19:37.299Z"
+  },
+  "__v": 0,
+  "image": "damamonde.jpg"
+},{
+  "_id": {
+    "$oid": "5ff2896d1fab6846545cb0f7"
+  },
+  "sku": "104",
+  "name_product": "The Face Shop",
+  "price": 778000,
+  "quantity": 8,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm The Face Shop",
+  "createdAt": {
+    "$date": "2021-01-04T03:20:13.061Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:20:13.061Z"
+  },
+  "__v": 0,
+  "image": "dathefaceshop.jpg"
+},{
+  "_id": {
+    "$oid": "5ff289941fab6846545cb0f8"
+  },
+  "sku": "105",
+  "name_product": "Tonymoly",
+  "price": 672000,
+  "quantity": 4,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Tonymoly",
+  "createdAt": {
+    "$date": "2021-01-04T03:20:52.107Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:20:52.107Z"
+  },
+  "__v": 0,
+  "image": "datonymoly.jpg"
+},{
+  "_id": {
+    "$oid": "5ff289c11fab6846545cb0f9"
+  },
+  "sku": "106",
+  "name_product": "Ohui",
+  "price": 723000,
+  "quantity": 5,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Ohui",
+  "createdAt": {
+    "$date": "2021-01-04T03:21:37.392Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:21:37.392Z"
+  },
+  "__v": 0,
+  "image": "daohui.jpg"
+},{
+  "_id": {
+    "$oid": "5ff289e11fab6846545cb0fa"
+  },
+  "sku": "107",
+  "name_product": "SK-II",
+  "price": 700000,
+  "quantity": 9,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm SK-II",
+  "createdAt": {
+    "$date": "2021-01-04T03:22:09.244Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:22:09.244Z"
+  },
+  "__v": 0,
+  "image": "dask-ii.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28a021fab6846545cb0fb"
+  },
+  "sku": "108",
+  "name_product": "Senka",
+  "price": 467000,
+  "quantity": 5,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Senka",
+  "createdAt": {
+    "$date": "2021-01-04T03:22:42.262Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:22:42.262Z"
+  },
+  "__v": 0,
+  "image": "dasenka.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28a261fab6846545cb0fc"
+  },
+  "sku": "109",
+  "name_product": "Vichy",
+  "price": 622000,
+  "quantity": 7,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Vichy",
+  "createdAt": {
+    "$date": "2021-01-04T03:23:18.063Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:23:18.063Z"
+  },
+  "__v": 0,
+  "image": "davichy.JPG"
+},{
+  "_id": {
+    "$oid": "5ff28a481fab6846545cb0fd"
+  },
+  "sku": "110",
+  "name_product": "Bioderma",
+  "price": 430000,
+  "quantity": 5,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Bioderma",
+  "createdAt": {
+    "$date": "2021-01-04T03:23:52.678Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:23:52.678Z"
+  },
+  "__v": 0,
+  "image": "dabioderma.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28aad1fab6846545cb0ff"
+  },
+  "sku": "111",
+  "name_product": "Centaphil",
+  "price": 420000,
+  "quantity": 5,
+  "category": "Dưỡng Ẩm",
+  "description": "Dưỡng ẩm Centaphil",
+  "createdAt": {
+    "$date": "2021-01-04T03:25:33.364Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:25:33.364Z"
+  },
+  "__v": 0,
+  "image": "dacentaphil.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28af91fab6846545cb100"
+  },
+  "sku": "200",
+  "name_product": "Centaphil",
+  "price": 310000,
+  "quantity": 6,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang Centaphil",
+  "createdAt": {
+    "$date": "2021-01-04T03:26:49.233Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:26:49.233Z"
+  },
+  "__v": 0,
+  "image": "ttcentaphil.png"
+},{
+  "_id": {
+    "$oid": "5ff28bc61fab6846545cb101"
+  },
+  "sku": "201",
+  "name_product": "Senka",
+  "price": 290000,
+  "quantity": 6,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang Senka",
+  "createdAt": {
+    "$date": "2021-01-04T03:30:14.205Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:30:14.205Z"
+  },
+  "__v": 0,
+  "image": "ttsenka.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28bdf1fab6846545cb102"
+  },
+  "sku": "202",
+  "name_product": "Vichy",
+  "price": 210000,
+  "quantity": 8,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang Vichy",
+  "createdAt": {
+    "$date": "2021-01-04T03:30:39.365Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:30:39.365Z"
+  },
+  "__v": 0,
+  "image": "ttvichy.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28c0b1fab6846545cb103"
+  },
+  "sku": "203",
+  "name_product": "The Face Shop",
+  "price": 464000,
+  "quantity": 2,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang The Face Shop",
+  "createdAt": {
+    "$date": "2021-01-04T03:31:23.182Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:31:23.182Z"
+  },
+  "__v": 0,
+  "image": "ttthefaceshop.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28c281fab6846545cb104"
+  },
+  "sku": "204",
+  "name_product": "Innisfree",
+  "price": 327000,
+  "quantity": 3,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang Innisfree",
+  "createdAt": {
+    "$date": "2021-01-04T03:31:52.465Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:31:52.465Z"
+  },
+  "__v": 0,
+  "image": "ttinnisfree.png"
+},{
+  "_id": {
+    "$oid": "5ff28c4e1fab6846545cb105"
+  },
+  "sku": "205",
+  "name_product": "Laneige",
+  "price": 368000,
+  "quantity": 35,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang Laneige",
+  "createdAt": {
+    "$date": "2021-01-04T03:32:30.970Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:32:30.970Z"
+  },
+  "__v": 0,
+  "image": "ttlaneige.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28c831fab6846545cb106"
+  },
+  "sku": "206",
+  "name_product": "Bioderma",
+  "price": 208000,
+  "quantity": 5,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang Bioderma",
+  "createdAt": {
+    "$date": "2021-01-04T03:33:23.516Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:33:23.516Z"
+  },
+  "__v": 0,
+  "image": "ttbioderma.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28ca51fab6846545cb107"
+  },
+  "sku": "207",
+  "name_product": "Pond's",
+  "price": 163000,
+  "quantity": 4,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang Pond's",
+  "createdAt": {
+    "$date": "2021-01-04T03:33:57.936Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:33:57.936Z"
+  },
+  "__v": 0,
+  "image": "ttpond.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28cc51fab6846545cb108"
+  },
+  "sku": "208",
+  "name_product": "SK-II",
+  "price": 467000,
+  "quantity": 5,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang SK-II",
+  "createdAt": {
+    "$date": "2021-01-04T03:34:29.407Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:34:29.407Z"
+  },
+  "__v": 0,
+  "image": "ttsk-ii.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28ced1fab6846545cb109"
+  },
+  "sku": "209",
+  "name_product": "The Saem",
+  "price": 321000,
+  "quantity": 8,
+  "category": "Tẩy Trang",
+  "description": "Tẩy Trang The Saem",
+  "createdAt": {
+    "$date": "2021-01-04T03:35:09.773Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:35:09.773Z"
+  },
+  "__v": 0,
+  "image": "ttthesaem.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28d2a1fab6846545cb10a"
+  },
+  "sku": "300",
+  "name_product": "Bioderma",
+  "price": 250000,
+  "quantity": 10,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết Bioderma",
+  "createdAt": {
+    "$date": "2021-01-04T03:36:10.763Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:36:10.763Z"
+  },
+  "__v": 0,
+  "image": "ttbcbioderma.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28d431fab6846545cb10b"
+  },
+  "sku": "301",
+  "name_product": "Senka",
+  "price": 271000,
+  "quantity": 3,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết Senka",
+  "createdAt": {
+    "$date": "2021-01-04T03:36:35.447Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:36:35.447Z"
+  },
+  "__v": 0,
+  "image": "ttbcsenka.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28d5b1fab6846545cb10c"
+  },
+  "sku": "302",
+  "name_product": "Vichy",
+  "price": 200000,
+  "quantity": 5,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết Vichy",
+  "createdAt": {
+    "$date": "2021-01-04T03:36:59.403Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:36:59.403Z"
+  },
+  "__v": 0,
+  "image": "ttbcvichy.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28d731fab6846545cb10d"
+  },
+  "sku": "303",
+  "name_product": "Centaphil",
+  "price": 216000,
+  "quantity": 8,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết Centaphil",
+  "createdAt": {
+    "$date": "2021-01-04T03:37:23.837Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:37:23.837Z"
+  },
+  "__v": 0,
+  "image": "ttbccentaphil.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28d851fab6846545cb10e"
+  },
+  "sku": "304",
+  "name_product": "Innisfree",
+  "price": 200000,
+  "quantity": 8,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết Innisfree",
+  "createdAt": {
+    "$date": "2021-01-04T03:37:41.625Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:37:41.625Z"
+  },
+  "__v": 0,
+  "image": "ttbcinnisfree.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28d9c1fab6846545cb10f"
+  },
+  "sku": "305",
+  "name_product": "Laneige",
+  "price": 208000,
+  "quantity": 5,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết Laneige",
+  "createdAt": {
+    "$date": "2021-01-04T03:38:04.557Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:38:04.557Z"
+  },
+  "__v": 0,
+  "image": "ttbclaneige.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28dbd1fab6846545cb110"
+  },
+  "sku": "306",
+  "name_product": "The Face Shop",
+  "price": 230000,
+  "quantity": 5,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết The Face Shop",
+  "createdAt": {
+    "$date": "2021-01-04T03:38:37.221Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:38:37.221Z"
+  },
+  "__v": 0,
+  "image": "ttbcthefaceshop.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28ddc1fab6846545cb111"
+  },
+  "sku": "307",
+  "name_product": "Pond's",
+  "price": 167000,
+  "quantity": 20,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết Pond's",
+  "createdAt": {
+    "$date": "2021-01-04T03:39:08.414Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:39:08.414Z"
+  },
+  "__v": 0,
+  "image": "ttbcpond.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28e021fab6846545cb113"
+  },
+  "sku": "308",
+  "name_product": "Ordinary",
+  "price": 236000,
+  "quantity": 10,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết Ordinary",
+  "createdAt": {
+    "$date": "2021-01-04T03:39:46.860Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:39:46.860Z"
+  },
+  "__v": 0,
+  "image": "ttbcordinary.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28e541fab6846545cb114"
+  },
+  "sku": "309",
+  "name_product": "Huxley",
+  "price": 274000,
+  "quantity": 4,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết Huxley",
+  "createdAt": {
+    "$date": "2021-01-04T03:41:08.835Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:41:08.835Z"
+  },
+  "__v": 0,
+  "image": "ttbchuxley.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28e8a1fab6846545cb115"
+  },
+  "sku": "310",
+  "name_product": "SK-II",
+  "price": 374000,
+  "quantity": 6,
+  "category": "Tẩy Tế Bào Chết",
+  "description": "Tẩy Tế Bào Chết SK-II",
+  "createdAt": {
+    "$date": "2021-01-04T03:42:02.614Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:42:02.614Z"
+  },
+  "__v": 0,
+  "image": "ttbcsk-ii.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28ecd1fab6846545cb116"
+  },
+  "sku": "400",
+  "name_product": "SK-II",
+  "price": 378000,
+  "quantity": 6,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt SK-II",
+  "createdAt": {
+    "$date": "2021-01-04T03:43:09.086Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:43:09.086Z"
+  },
+  "__v": 0,
+  "image": "srmsk-ii.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28eeb1fab6846545cb117"
+  },
+  "sku": "401",
+  "name_product": "Senka",
+  "price": 297000,
+  "quantity": 6,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt Senka",
+  "createdAt": {
+    "$date": "2021-01-04T03:43:39.036Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:43:39.036Z"
+  },
+  "__v": 0,
+  "image": "srmsenka.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28f211fab6846545cb118"
+  },
+  "sku": "402",
+  "name_product": "La RoChe-PoSay",
+  "price": 350000,
+  "quantity": 7,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt La RoChe-PoSay",
+  "createdAt": {
+    "$date": "2021-01-04T03:44:33.354Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:44:33.354Z"
+  },
+  "__v": 0,
+  "image": "srmlaroche-posay.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28f451fab6846545cb119"
+  },
+  "sku": "403",
+  "name_product": "Pond's",
+  "price": 150000,
+  "quantity": 9,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt Pond's",
+  "createdAt": {
+    "$date": "2021-01-04T03:45:09.370Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:45:09.370Z"
+  },
+  "__v": 0,
+  "image": "srmpond.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28f621fab6846545cb11a"
+  },
+  "sku": "404",
+  "name_product": "Innisfree",
+  "price": 250000,
+  "quantity": 9,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt Innisfree",
+  "createdAt": {
+    "$date": "2021-01-04T03:45:38.254Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:45:38.254Z"
+  },
+  "__v": 0,
+  "image": "srminnisfree.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28f851fab6846545cb11b"
+  },
+  "sku": "405",
+  "name_product": "Laneige",
+  "price": 256000,
+  "quantity": 5,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt Laneige",
+  "createdAt": {
+    "$date": "2021-01-04T03:46:13.508Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:46:13.508Z"
+  },
+  "__v": 0,
+  "image": "srmlaneige.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28fab1fab6846545cb11c"
+  },
+  "sku": "406",
+  "name_product": "The Face Shop",
+  "price": 156000,
+  "quantity": 5,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt The Face Shop",
+  "createdAt": {
+    "$date": "2021-01-04T03:46:51.926Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:46:51.926Z"
+  },
+  "__v": 0,
+  "image": "srmthefaceshop.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28fd21fab6846545cb11d"
+  },
+  "sku": "407",
+  "name_product": "Vichy",
+  "price": 362000,
+  "quantity": 7,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt Vichy",
+  "createdAt": {
+    "$date": "2021-01-04T03:47:30.249Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:47:30.249Z"
+  },
+  "__v": 0,
+  "image": "srmvichy.jpg"
+},{
+  "_id": {
+    "$oid": "5ff28ffa1fab6846545cb11e"
+  },
+  "sku": "408",
+  "name_product": "The Saem",
+  "price": 242000,
+  "quantity": 8,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt The Saem",
+  "createdAt": {
+    "$date": "2021-01-04T03:48:10.403Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:48:10.403Z"
+  },
+  "__v": 0,
+  "image": "srmthesaem.jpg"
+},{
+  "_id": {
+    "$oid": "5ff290211fab6846545cb11f"
+  },
+  "sku": "409",
+  "name_product": "Paula's Choise",
+  "price": 342000,
+  "quantity": 8,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt Paula's Choise",
+  "createdAt": {
+    "$date": "2021-01-04T03:48:49.002Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:48:49.002Z"
+  },
+  "__v": 0,
+  "image": "srmpaula'schoice.jpg"
+},{
+  "_id": {
+    "$oid": "5ff2903f1fab6846545cb120"
+  },
+  "sku": "410",
+  "name_product": "Ohui",
+  "price": 262000,
+  "quantity": 8,
+  "category": "Sữa Rửa Mặt",
+  "description": "Sữa rửa mặt Ohui",
+  "createdAt": {
+    "$date": "2021-01-04T03:49:19.794Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:49:19.794Z"
+  },
+  "__v": 0,
+  "image": "srmohui.jpg"
+},{
+  "_id": {
+    "$oid": "5ff290601fab6846545cb121"
+  },
+  "sku": "500",
+  "name_product": "Ohui",
+  "price": 162000,
+  "quantity": 8,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Ohui",
+  "createdAt": {
+    "$date": "2021-01-04T03:49:52.963Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:49:52.963Z"
+  },
+  "__v": 0,
+  "image": "cnohui.jpg"
+},{
+  "_id": {
+    "$oid": "5ff290811fab6846545cb122"
+  },
+  "sku": "501",
+  "name_product": "Innisfree",
+  "price": 267000,
+  "quantity": 6,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Innisfree",
+  "createdAt": {
+    "$date": "2021-01-04T03:50:25.154Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:50:25.154Z"
+  },
+  "__v": 0,
+  "image": "cninnisfree.jpg"
+},{
+  "_id": {
+    "$oid": "5ff290981fab6846545cb123"
+  },
+  "sku": "502",
+  "name_product": "Laneige",
+  "price": 247000,
+  "quantity": 6,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Laneige",
+  "createdAt": {
+    "$date": "2021-01-04T03:50:48.112Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:50:48.112Z"
+  },
+  "__v": 0,
+  "image": "cnlaneige.jpg"
+},{
+  "_id": {
+    "$oid": "5ff290b01fab6846545cb124"
+  },
+  "sku": "503",
+  "name_product": "Senka",
+  "price": 147000,
+  "quantity": 3,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Senka",
+  "createdAt": {
+    "$date": "2021-01-04T03:51:12.863Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:51:12.863Z"
+  },
+  "__v": 0,
+  "image": "cnsenka.jpg"
+},{
+  "_id": {
+    "$oid": "5ff290d31fab6846545cb125"
+  },
+  "sku": "504",
+  "name_product": "SK-II",
+  "price": 448000,
+  "quantity": 3,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng SK-II",
+  "createdAt": {
+    "$date": "2021-01-04T03:51:47.751Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:51:47.751Z"
+  },
+  "__v": 0,
+  "image": "cnsk-ii.jpg"
+},{
+  "_id": {
+    "$oid": "5ff290f31fab6846545cb126"
+  },
+  "sku": "505",
+  "name_product": "Pond's",
+  "price": 145000,
+  "quantity": 7,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Pond's",
+  "createdAt": {
+    "$date": "2021-01-04T03:52:19.828Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:52:19.828Z"
+  },
+  "__v": 0,
+  "image": "cnpond.jpg"
+},{
+  "_id": {
+    "$oid": "5ff2911a1fab6846545cb127"
+  },
+  "sku": "506",
+  "name_product": "Bioderma",
+  "price": 245000,
+  "quantity": 4,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Bioderma",
+  "createdAt": {
+    "$date": "2021-01-04T03:52:58.302Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:52:58.302Z"
+  },
+  "__v": 0,
+  "image": "cnbioderma.jpg"
+},{
+  "_id": {
+    "$oid": "5ff2913b1fab6846545cb128"
+  },
+  "sku": "507",
+  "name_product": "Ordinary",
+  "price": 261000,
+  "quantity": 5,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Ordinary",
+  "createdAt": {
+    "$date": "2021-01-04T03:53:31.472Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:53:31.472Z"
+  },
+  "__v": 0,
+  "image": "cnordinary.jpg"
+},{
+  "_id": {
+    "$oid": "5ff2915e1fab6846545cb129"
+  },
+  "sku": "508",
+  "name_product": "Vichy",
+  "price": 252000,
+  "quantity": 4,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Vichy",
+  "createdAt": {
+    "$date": "2021-01-04T03:54:06.151Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:54:06.151Z"
+  },
+  "__v": 0,
+  "image": "cnvichy.jpg"
+},{
+  "_id": {
+    "$oid": "5ff2917a1fab6846545cb12a"
+  },
+  "sku": "509",
+  "name_product": "Lancome",
+  "price": 352000,
+  "quantity": 4,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Lancome",
+  "createdAt": {
+    "$date": "2021-01-04T03:54:34.666Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T03:54:34.666Z"
+  },
+  "image": "cnlancome.jpg"
+},{
+  "_id": {
+    "$oid": "5ff2b23a82d4d94068109c8c"
+  },
+  "sku": "511",
+  "name_product": "Clio",
+  "price": 259000,
+  "quantity": 9,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Clio",
+  "createdAt": {
+    "$date": "2021-01-04T06:14:18.458Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-04T06:35:13.819Z"
+  },
+  "image": "cnclio.jpg"
+},{
+  "_id": {
+    "$oid": "5ff3de2a96c9fa2b6cde0d68"
+  },
+  "sku": "510",
+  "name_product": "Tonymoly",
+  "price": 259000,
+  "quantity": 9,
+  "category": "Chống Nắng",
+  "description": "Kem chống nắng Tonymoly",
+  "image": "cntonymoly.jpg",
+  "createdAt": {
+    "$date": "2021-01-05T03:34:02.176Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-05T03:34:02.176Z"
+  },
+  "__v": 0
+}]

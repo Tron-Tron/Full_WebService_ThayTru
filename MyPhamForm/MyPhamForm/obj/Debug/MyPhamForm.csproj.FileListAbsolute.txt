@@ -1,0 +1,316 @@
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csprojAssemblyReference.cache
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmDangNhap.resources
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmDonHang.resources
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmLoaiSP.resources
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\TracNghiem.frmLogin.resources
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmMain.resources
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmSanPham.resources
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmUser.resources
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.Properties.Resources.resources
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.GenerateResource.cache
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.exe.licenses
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.CoreCompileInputs.cache
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.exe.config
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.exe
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.pdb
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.CopyComplete
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.exe
+E:\Hoc Vien Hoang Gia_PTITHCM\4th year\1th_Term\Service-oriented Software Development\fullProject\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.pdb
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.exe.config
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.exe
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.pdb
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Data.v19.2.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\RestSharp.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Data.v19.2.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\RestSharp.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csprojAssemblyReference.cache
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmDangNhap.resources
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmDonHang.resources
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmLoaiSP.resources
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\TracNghiem.frmLogin.resources
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmMain.resources
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmSanPham.resources
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmUser.resources
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.Properties.Resources.resources
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.GenerateResource.cache
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.exe.licenses
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.CoreCompileInputs.cache
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.CopyComplete
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.exe
+E:\HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.pdb
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Newtonsoft.Json.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Newtonsoft.Json.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.Cdn.Fluent.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.Cdn.Fluent.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.ResourceManager.Fluent.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+E:\HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.exe.config
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.exe
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.pdb
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.Cdn.Fluent.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Newtonsoft.Json.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\RestSharp.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.Cdn.Fluent.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.ResourceManager.Fluent.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\Newtonsoft.Json.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\RestSharp.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csprojAssemblyReference.cache
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmDangNhap.resources
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmDonHang.resources
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmLoaiSP.resources
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\TracNghiem.frmLogin.resources
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmMain.resources
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmSanPham.resources
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmUser.resources
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.Properties.Resources.resources
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.GenerateResource.cache
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.exe.licenses
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.CoreCompileInputs.cache
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.CopyComplete
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.exe
+E:\Linhh Giangg\Ki1Nam4\BAO-CAO-HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.pdb
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.exe.config
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.exe
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\MyPhamForm.pdb
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Data.v19.2.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.Cdn.Fluent.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Newtonsoft.Json.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\RestSharp.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Data.v19.2.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.Cdn.Fluent.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Azure.Management.ResourceManager.Fluent.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\Newtonsoft.Json.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\RestSharp.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csprojAssemblyReference.cache
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmDangNhap.resources
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmDonHang.resources
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmLoaiSP.resources
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\TracNghiem.frmLogin.resources
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmMain.resources
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmSanPham.resources
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.frmUser.resources
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.Properties.Resources.resources
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.GenerateResource.cache
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.exe.licenses
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.CoreCompileInputs.cache
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.csproj.CopyComplete
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.exe
+E:\DO AN HDV\MyPhamForm\MyPhamForm\obj\Debug\MyPhamForm.pdb

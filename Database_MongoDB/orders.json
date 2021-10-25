@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "5ff404e096c9fa2b6cde0d79"
+  },
+  "status": 1,
+  "email": "a@gmail.com",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5ff404e096c9fa2b6cde0d7a"
+      },
+      "sku": "305",
+      "amount": 5,
+      "total": 1040000
+    },
+    {
+      "_id": {
+        "$oid": "5ff404e096c9fa2b6cde0d7b"
+      },
+      "sku": "304",
+      "amount": 8,
+      "total": 1600000
+    }
+  ],
+  "order_desc": "asas",
+  "total": 408000,
+  "createdAt": {
+    "$date": "2021-01-05T06:19:12.760Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-05T06:19:12.760Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff4137d96c9fa2b6cde0d7c"
+  },
+  "status": 1,
+  "email": "a@gmail.com",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5ff4137d96c9fa2b6cde0d7d"
+      },
+      "sku": "101",
+      "amount": 10,
+      "total": 6800000
+    }
+  ],
+  "order_desc": "kkk",
+  "total": 4240000,
+  "createdAt": {
+    "$date": "2021-01-05T07:21:33.413Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-05T07:21:33.413Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff4241696c9fa2b6cde0d88"
+  },
+  "status": 1,
+  "email": "a@gmail.com",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5ff4241696c9fa2b6cde0d89"
+      },
+      "sku": "101",
+      "amount": 10,
+      "total": 6800000
+    },
+    {
+      "_id": {
+        "$oid": "5ff4241696c9fa2b6cde0d8a"
+      },
+      "sku": "102",
+      "amount": 30,
+      "total": 18000000
+    },
+    {
+      "_id": {
+        "$oid": "5ff4241696c9fa2b6cde0d8b"
+      },
+      "sku": "103",
+      "amount": 10,
+      "total": 8000000
+    }
+  ],
+  "order_desc": "Không có yêu cầu",
+  "total": 4160000,
+  "createdAt": {
+    "$date": "2021-01-05T08:32:22.811Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-05T08:32:22.811Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff424be96c9fa2b6cde0d8c"
+  },
+  "status": 1,
+  "email": "a@gmail.com",
+  "product": [
+    {
+      "_id": {
+        "$oid": "5ff424be96c9fa2b6cde0d8d"
+      },
+      "sku": "106",
+      "amount": 1,
+      "total": 723000
+    }
+  ],
+  "order_desc": "Không có yêu cầu",
+  "total": 723000,
+  "createdAt": {
+    "$date": "2021-01-05T08:35:10.350Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-05T08:35:10.350Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff5a8775369e414bce5faba"
+  },
+  "status": 1,
+  "email": "trontron7@gmail.com",
+  "product": [],
+  "order_desc": "Không có yêu cầu",
+  "total": 0,
+  "createdAt": {
+    "$date": "2021-01-06T12:09:27.486Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-06T12:09:27.486Z"
+  },
+  "__v": 0
+}]
